@@ -12,10 +12,11 @@ I´m Ryan McBride
   
   ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-  ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
+  ![MariaDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=square&logo=postgresql)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=square&logo=amazon-aws)
   
+  ![Laravel](https://img.shields.io/badge/Django-white?style=square&logo=django)
   ![Laravel](https://img.shields.io/badge/Laravel-white?style=square&logo=laravel)
   
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=square&logo=react)
